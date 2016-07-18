@@ -1,0 +1,10 @@
+# How to implement 304 using eTag or Last-modified using nodeJS
+----------
+
+## npm install
+
+## npm start
+### browse localhost:3000
+
+#### first time it will show Status Code: 200
+#### second time it will show Status Code: 304
